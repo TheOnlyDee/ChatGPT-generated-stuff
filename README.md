@@ -3,6 +3,9 @@ I'm sharing this because maybe, one time, ChatGPT will be behind a paywall and i
 These are all kinds of programming lenguages, but the major part of this code is written in Italian.
 Happy IT journey!
 
+
+&#127496;
+
 Tutto il codice in questo repository è generato da ChatGPT.
 Lo condivido perché forse, una volta, ChatGPT sarà protetto da un paywall e non sarà accessibile gratuitamente.
 Questi sono tutti i tipi di linguaggi di programmazione, ma la maggior parte di questo codice è scritta in italiano.
