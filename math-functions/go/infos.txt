@@ -1,0 +1,9 @@
+Per utilizzare questa libreria in un altro programma, basta importarla con il seguente codice
+
+import "math"
+
+
+
+Quindi sarà possibile utilizzare le funzioni presenti nella libreria come se fossero funzioni interne del programma. Ad esempio:
+
+area := math.CircleArea(5) // calcola l'area di un cerchio di raggio 5
