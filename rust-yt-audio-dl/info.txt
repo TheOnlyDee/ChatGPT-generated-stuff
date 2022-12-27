@@ -1,0 +1,4 @@
+Questo programma utilizza le librerie -reqwest- per effettuare richieste HTTP e -flac- o -ogg- per decodificare il file audio.
+
+In questo esempio, il programma scarica il contenuto del video da YouTube, quindi lo decodifica e lo salva in un file chiamato audio.flac. 
+Puoi scegliere di utilizzare un formato audio diverso, come Ogg Vorbis, cambiando semplicemente la libreria di decodifica e il nome del file di output.
