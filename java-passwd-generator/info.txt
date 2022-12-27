@@ -1,0 +1,3 @@
+Il programma utilizza la classe Random per generare numeri casuali, e poi utilizza questi numeri per scegliere tra tre tipi di caratteri: lettere maiuscole, lettere minuscole e numeri. Per ogni carattere viene generato un numero casuale e viene scelto il carattere corrispondente, quindi viene aggiunto alla stringa di password. Alla fine, la password viene stampata a schermo.
+
+Il programma può essere facilmente modificato per generare password di lunghezza diversa o per includere altri tipi di caratteri (ad esempio, simboli).
