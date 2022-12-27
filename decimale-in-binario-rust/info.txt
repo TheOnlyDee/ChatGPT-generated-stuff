@@ -1,0 +1,3 @@
+Il programma legge l'input dell'utente (il numero decimale da convertire) e poi utilizza il metodo insert della stringa per inserire il resto della divisione per 2 all'inizio della stringa.
+Il processo viene ripetuto finché il numero non diventa zero. 
+Alla fine, viene stampato il risultato finale.
